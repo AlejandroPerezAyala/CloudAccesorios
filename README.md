@@ -1,4 +1,8 @@
-# Astro Starter Kit: Basics
+# Cloud Accesorios
+
+El sitio web es un remake de la primera que realice en el 2022, esta desarrollado con Astro y TailwindCSS, espero que les guste como quedo!
+
+## Astro Starter Kit: Basics
 
 ```sh
 npm create astro@latest -- --template basics
