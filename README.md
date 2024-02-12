@@ -1,6 +1,6 @@
 # Cloud Accesorios
 
-El sitio web es un remake de la primera que realice en el 2022, esta realizaron con Astro y TailwindCSS, espero que les guste como quedo!
+El sitio web es un remake de la primera que realice en el 2022, esta desarrollado con Astro y TailwindCSS, espero que les guste como quedo!
 
 ## Astro Starter Kit: Basics
 
